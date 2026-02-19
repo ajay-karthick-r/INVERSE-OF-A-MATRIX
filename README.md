@@ -31,7 +31,8 @@ except np.linalg.LinAlgError:
 
 ```
 ## Output:
-![alt text](image.png)
+<img width="968" height="727" alt="Screenshot 2026-02-03 221346" src="https://github.com/user-attachments/assets/6f7f997a-d0b5-4a9d-86c6-e123dce3aa57" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
